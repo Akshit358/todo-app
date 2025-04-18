@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><strong>🔗 LinkedIn:</strong></td>
-    <td><a href="https://www.linkedin.com/in/your-link">your-link</a></td>
+    <td><a href="www.linkedin.com/in/akshit-singh-aba4b51a6">your-link</a></td>
   </tr>
 </table>
 
