@@ -83,9 +83,9 @@ Prepare dinner|not done
 ## 📁 Project Structure
 
 todo-app/
-├── todo_app.py       # Main application script
-├── tasks.txt         # Task data file
-└── README.md         # Documentation
+- ├── todo_app.py       # Main application script
+- ├── tasks.txt         # Task data file
+- └── README.md         # Documentation
 
 
 
