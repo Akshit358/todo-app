@@ -70,25 +70,23 @@ Exercise for 30 minutes|not done
 Prepare dinner|not done
 ```
 
-🛠️ Technologies & Concepts Used
-    📂 File Handling
-    🧠 Lists & Dictionaries
-    🧩 Functions
-    🔄 Loops & Conditionals
-    🚫 Exception Handling
+## 🛠️ Technologies & Concepts Used
 
-📁 Project Structure
+- 📂 File Handling  
+- 🧠 Lists & Dictionaries  
+- 🧩 Functions  
+- 🔄 Loops & Conditionals  
+- 🚫 Exception Handling  
+
+---
+
+## 📁 Project Structure
+
 todo-app/
 ├── todo_app.py       # Main application script
 ├── tasks.txt         # Task data file
 └── README.md         # Documentation
 
-🤝 Contributions
-  This is a beginner-friendly project — feel free to fork and enhance it!
-  Add due dates or priorities
-  Use JSON instead of text
-  Build a web version with Flask
-  Create a GUI using Tkinter
 
 
 
