@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><strong>🔗 LinkedIn:</strong></td>
-    <td><a href="www.linkedin.com/in/akshit-singh-aba4b51a6">your-link</a></td>
+    <td><a href="https://www.linkedin.com/in/akshit-singh-aba4b51a6">your-link</a></td>
   </tr>
 </table>
 
@@ -50,27 +50,32 @@ This project is perfect for those who want to:
 ```bash
 git clone https://github.com/your-username/todo-app.git
 cd todo-app
+```
 
 2. Make Sure Python Is Installed
+```bash
 python3 --version
+```
 
 3. Run the App
+```bash
 python3 todo_app.py
-
+```
 
 📝 Sample tasks.txt
+```bash
 Buy groceries|not done
 Read Python book|done
 Exercise for 30 minutes|not done
 Prepare dinner|not done
-This file stores your tasks. It is automatically read and updated by the app.
+```
 
 🛠️ Technologies & Concepts Used
-📂 File Handling
-🧠 Lists & Dictionaries
-🧩 Functions
-🔄 Loops & Conditional
-🚫 Exception Handling
+    📂 File Handling
+    🧠 Lists & Dictionaries
+    🧩 Functions
+    🔄 Loops & Conditionals
+    🚫 Exception Handling
 
 📁 Project Structure
 todo-app/
@@ -79,33 +84,11 @@ todo-app/
 └── README.md         # Documentation
 
 🤝 Contributions
-This is a beginner-friendly project — feel free to fork and enhance it:
-
-Add due dates or priorities
-
-Use JSON instead of text
-
-Build a web version with Flask
-
-Create a GUI using Tkinter
-
-Pull Requests are welcome! 🌱
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  This is a beginner-friendly project — feel free to fork and enhance it!
+  Add due dates or priorities
+  Use JSON instead of text
+  Build a web version with Flask
+  Create a GUI using Tkinter
 
 
 
