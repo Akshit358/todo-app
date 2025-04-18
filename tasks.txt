@@ -1,0 +1,13 @@
+Gather requirements from client|done
+Analyze project feasibility|done
+Create software design documents|not done
+Set up development environment|done
+Develop core features|not done
+Write unit tests|not done
+Perform integration testing|not done
+Fix bugs from testing phase|not done
+Prepare deployment pipeline|not done
+Deploy to production|not done
+Collect user feedback|not done
+Plan for maintenance updates|not done
+|not done
